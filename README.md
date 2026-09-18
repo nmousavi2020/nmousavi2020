@@ -25,7 +25,6 @@ My work focuses on building **end-to-end machine learning systems** for complex 
 * 🌍 Parameter Estimation & Subsurface Modeling
 * 🛰️ Satellite & Geospatial Data
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -56,22 +55,6 @@ Python package for **Machine Learning Framework for Geophysical Property Predict
 
 ---
 
-## 🧪 Research Areas
-
-**Scientific Machine Learning**
-Physics-informed learning · Inverse problems · Deep learning
-
-**Uncertainty & Bayesian AI**
-Quantile regression · Bayesian ML · Simulation-Based Inference
-
-**Applied AI & AI Engineering**
-LLMs · RAG · Document Intelligence · MLOps · Model Deployment
-
-**Earth Observation**
-Geothermal systems · Volcanic processes · Large-scale satellite datasets
-
----
-
 ## 🛠️ Technical Skills
 
 ### Machine Learning
@@ -92,35 +75,6 @@ Geothermal systems · Volcanic processes · Large-scale satellite datasets
 
 ---
 
-## 🏢 Professional Experience
-
-### Chinese Academy of Sciences & Complutense University of Madrid
-
-**Machine Learning Scientist | 2024–2026**
-
-* Developed PyTorch-based deep learning models for large-scale subsurface property prediction.
-* Reduced computational time from **12 hours to 20 minutes (~97%)** through optimized ML workflows.
-* Designed scalable ML frameworks for feature engineering, hyperparameter optimization, uncertainty quantification, and interpretable modeling.
-* Extended volcanic prediction from **900 eruption records to 135 volcanoes worldwide**.
-
-### University of Tehran & International Institute of Earthquake Engineering
-
-**Machine Learning Engineer | 2020–2023**
-
-* Developed ML pipelines for heterogeneous, noisy, and uncertain datasets.
-* Applied machine learning to geothermal energy and natural-hazard applications.
-* Integrated large-scale satellite and geospatial datasets using Linux/HPC environments.
-
-### GFZ Potsdam & University of Kiel
-
-**Geodata Scientist | 2016–2019**
-
-* Developed forward and inverse models for subsurface modeling and geological interpretation.
-* Integrated multi-source geodata and satellite datasets.
-* Optimized HPC workflows for large-scale scientific computing.
-
----
-
 ## 🎓 Education
 
 **University of Kiel (CAU), Germany**
@@ -130,16 +84,7 @@ PhD in Natural Sciences — Faculty of Mathematics and Natural Sciences | 2016�
 
 ## 📚 Research & Publications
 
-**50 Publications · h-index: 8 · 165 Citations**
-
-Research interests include:
-
-* Machine Learning for Geothermal Systems
-* AI for Volcanic Processes
-* Deep Learning for Gravity Inversion
-* Physics-Guided Machine Learning
-* Scientific Machine Learning
-* Satellite & Geospatial AI
+**40 Publications · h-index: 8 · 165 Citations**
 
 📖 **[Google Scholar](https://scholar.google.com/citations?user=6IRQwysAAAAJ&hl=en)**
 
