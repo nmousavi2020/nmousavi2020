@@ -2,7 +2,7 @@
 
 ### Machine Learning Scientist | Applied AI & Research Engineer
 
-📍 Madrid, Spain · 📧 [moosavi.naeim@gmail.com](mailto:moosavi.naeim@gmail.com)
+📍 Madrid, Spain · 📧 [mousavi_naeim@yahoo.com](mailto:mousavi_naeim@yahoo.com)
  · 💼 [LinkedIn](https://www.linkedin.com/in/naeim-mousavi/) 
 
 **Machine Learning · Deep Learning · Large-Scale Data · Applied AI · Scientific AI**
