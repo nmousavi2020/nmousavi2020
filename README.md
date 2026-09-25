@@ -1,4 +1,4 @@
-# Dr. Naeim Mousavi
+# Naeim Mousavi
 
 ### Machine Learning Scientist | Applied AI & Research Engineer
 
