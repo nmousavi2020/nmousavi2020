@@ -1,6 +1,6 @@
 # Naeim Mousavi
 
-### Machine Learning Scientist | Applied AI & Research Engineer
+### Machine Learning Engineer | Applied AI
 
 📍 Madrid, Spain · 📧 [mousavi_naeim@yahoo.com](mailto:mousavi_naeim@yahoo.com)
  · 💼 [LinkedIn](https://www.linkedin.com/in/naeim-mousavi/) 
