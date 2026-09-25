@@ -11,7 +11,7 @@
 
 ## 🔬 About Me
 
-I am a **Machine Learning Scientist and Data Scientist with a PhD**, working at the intersection of **Machine Learning, Scientific AI, and Applied AI**.
+I am a **Machine Learning Engineer and Data Analyst**, working at the intersection of **Machine Learning, and Applied AI**.
 
 My work focuses on building **end-to-end machine learning systems** for complex scientific and industrial datasets, including:
 
@@ -51,14 +51,6 @@ LSTM-based time-series prediction of GRACE satellite gravity data.
 
 **University of Kiel (CAU), Germany**
 PhD in Natural Sciences — Faculty of Mathematics and Natural Sciences | 2016–2019
-
----
-
-## 📚 Research & Publications
-
-**40 Publications · h-index: 8 · 165 Citations**
-
-📖 **[Google Scholar](https://scholar.google.com/citations?user=6IRQwysAAAAJ&hl=en)**
 
 ---
 
