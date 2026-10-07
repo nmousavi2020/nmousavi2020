@@ -16,18 +16,25 @@ I am a **Machine Learning Engineer and Data Analyst**, working at the intersecti
 My work focuses on building **end-to-end machine learning systems** for complex scientific and industrial datasets, including:
 
 * 🧠 Machine Learning & Deep Learning
-* 📈 Time-Series & Signal Processing
+* ⚙️ MLOps & ML Deployment
 * 🔮 Bayesian ML & Uncertainty Quantification
+* 📈 Time-Series & Signal Processing
+* 🛰️ Satellite & Geospatial Data
 * ⚛️ Physics-Informed Machine Learning
 * 🔗 Causal AI & Scientific AI
 * 🤖 LLMs, RAG & Document Intelligence
-* ⚙️ MLOps & ML Deployment
 * 🌍 Parameter Estimation & Subsurface Modeling
-* 🛰️ Satellite & Geospatial Data
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🌋 [MLOps_Volcan](https://github.com/nmousavi2020/MLOps_Volcan)
+End-to-end MLOps pipeline for volcanic eruption mass estimation using GBRT, MLflow, Docker, experiment tracking, model registry, automated testing, and Docker Compose.
+
+### ⚙️ [MLOps_Churn_Prediction](https://github.com/nmousavi2020/MLOps_Churn_Prediction)
+
+End-to-end MLOps pipeline with **MLflow, FastAPI, Docker, and Kubernetes**.
 
 ### 🧠 [PINN_NASA](https://github.com/nmousavi2020/PINN_NASA)
 
@@ -36,10 +43,6 @@ Physics-Informed Neural Network for NASA IMS bearing degradation analysis using 
 ### 🤖 [DocIntel-AI](https://github.com/nmousavi2020/DocIntel-AI)
 
 Enterprise document intelligence using **LLMs, Hybrid RAG, BGE-M3, BM25, Qdrant, reranking, and Qwen 2.5**.
-
-### ⚙️ [MLOps_Churn_Prediction](https://github.com/nmousavi2020/MLOps_Churn_Prediction)
-
-End-to-end MLOps pipeline with **MLflow, FastAPI, Docker, and Kubernetes**.
 
 ### 🛰️ [PyTorch_Satellite](https://github.com/nmousavi2020/PyTorch_Satellite)
 
