@@ -44,9 +44,9 @@ End-to-end MLOps pipeline with **MLflow, FastAPI, Docker, and Kubernetes**.
 
 Enterprise document intelligence using **LLMs, Hybrid RAG, BGE-M3, BM25, Qdrant, reranking, and Qwen 2.5**.
 
-### 🛰️ [PyTorch_Satellite](https://github.com/nmousavi2020/PyTorch_Satellite)
+### 🔮 [NASA-SBI](https://github.com/nmousavi2020/NASA-SBI)
 
-**LSTM-based time-series** prediction of GRACE satellite gravity data.
+Bayesian Machine Learning and Simulation-Based Inference for Bearing Degradation using **PyTorch**. 
 
 ---
 
