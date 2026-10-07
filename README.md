@@ -30,7 +30,7 @@ My work focuses on building **end-to-end machine learning systems** for complex 
 ## 🚀 Featured Projects
 
 ### 🌋 [MLOps_Volcan](https://github.com/nmousavi2020/MLOps_Volcan)
-End-to-end MLOps pipeline for volcanic eruption mass estimation using GBRT, MLflow, Docker, experiment tracking, model registry, automated testing, and Docker Compose.
+End-to-end MLOps pipeline for volcanic eruption mass estimation using **Machine Learning, MLflow, Docker, experiment tracking, model registry, automated testing, and Docker Compose**.
 
 ### ⚙️ [MLOps_Churn_Prediction](https://github.com/nmousavi2020/MLOps_Churn_Prediction)
 
@@ -38,7 +38,7 @@ End-to-end MLOps pipeline with **MLflow, FastAPI, Docker, and Kubernetes**.
 
 ### 🧠 [PINN_NASA](https://github.com/nmousavi2020/PINN_NASA)
 
-Physics-Informed Neural Network for NASA IMS bearing degradation analysis using vibration RMS features.
+**Physics-Informed Neural Network** for NASA IMS bearing degradation analysis using vibration RMS features.
 
 ### 🤖 [DocIntel-AI](https://github.com/nmousavi2020/DocIntel-AI)
 
@@ -46,7 +46,7 @@ Enterprise document intelligence using **LLMs, Hybrid RAG, BGE-M3, BM25, Qdrant,
 
 ### 🛰️ [PyTorch_Satellite](https://github.com/nmousavi2020/PyTorch_Satellite)
 
-LSTM-based time-series prediction of GRACE satellite gravity data.
+**LSTM-based time-series** prediction of GRACE satellite gravity data.
 
 ---
 
