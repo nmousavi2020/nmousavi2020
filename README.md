@@ -2,7 +2,7 @@
 
 ### Machine Learning Engineer | Applied AI
 
-📍 Madrid, Spain · 📧 [mousavi_naeim@yahoo.com](mailto:mousavi_naeim@yahoo.com)
+   📧 [mousavi_naeim@yahoo.com](mailto:mousavi_naeim@yahoo.com)
  · 💼 [LinkedIn](https://www.linkedin.com/in/naeim-mousavi/) 
 
 **Machine Learning · Deep Learning · Applied AI**
