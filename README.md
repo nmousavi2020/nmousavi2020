@@ -1,6 +1,6 @@
 # Naeim Mousavi
 
-### Machine Learning Engineer | Applied AI
+### Machine Learning Engineer | Data Scientist | Applied Scientist
 
    📧 [mousavi_naeim@yahoo.com](mailto:mousavi_naeim@yahoo.com)
  · 💼 [LinkedIn](https://www.linkedin.com/in/naeim-mousavi/) 
@@ -11,7 +11,7 @@
 
 ## 🔬 About Me
 
-I am a **Machine Learning Engineer and Data Analyst**, working at the intersection of **Machine Learning, and Applied AI**.
+I am a **Machine Learning Engineer and Data Scientist**, working at the intersection of **Machine Learning, and Applied Science**.
 
 My work focuses on building **end-to-end machine learning systems** for complex scientific and industrial datasets, including:
 
