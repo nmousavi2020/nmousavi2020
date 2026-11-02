@@ -1,6 +1,6 @@
 # Naeim Mousavi
 
-### Machine Learning Engineer | Data Scientist | Applied Scientist
+### PhD Geophysicist | Geothermal Energy | GeoAI | Scientific Machine Learning
 
    [mousavi_naeim@yahoo.com](mailto:mousavi_naeim@yahoo.com)
    & [LinkedIn](https://www.linkedin.com/in/naeim-mousavi/) 
@@ -9,20 +9,25 @@
 
 ## About Me
 
-My work focuses on building **end-to-end machine learning systems** for complex scientific and industrial datasets, including:
+I am a PhD geophysicist specializing in geothermal energy, subsurface modelling, and AI-driven scientific computing. My work focuses on developing end-to-end machine learning systems and physics-based modelling solutions for complex scientific and industrial challenges.
 
+My expertise spans:
+
+* Geothermal Energy & Subsurface Modelling
+* Geophysical Modelling & Inverse Problems
 * Scientific Machine Learning & Deep Learning
-* Physics-Informed ML & Inverse Problems
+* Physics-Informed Neural Networks (PINNs)
+* Reservoir Simulation & Resource Assessment
 * Bayesian ML & Uncertainty Quantification
+* Geospatial AI, Satellite Data & Inversion
 * Image Processing & Anomaly Detection
 * Time-Series Analysis & Signal Processing
 * MLOps & Model Deployment
 * LLMs, RAG & Document Intelligence
-* Causal AI & Predictive Modeling
-* Geospatial AI, Satellite Data & Inversion
-* Geothermal & Subsurface Modelling  
+* Causal AI & Predictive Modelling
 
----
+I am particularly interested in bridging geophysical science, geothermal engineering, and artificial intelligence to develop practical solutions for energy exploration, resource assessment, and subsurface characterization.
+
 
 ## Education
 
