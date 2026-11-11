@@ -1,6 +1,6 @@
 # Naeim Mousavi
 
-### PhD Geophysicist | Geothermal Energy | GeoAI | Scientific Machine Learning
+### Machine Learning Engineer | Data Scientist | Applied Scientist
 
    [mousavi_naeim@yahoo.com](mailto:mousavi_naeim@yahoo.com)
    & [LinkedIn](https://www.linkedin.com/in/naeim-mousavi/) 
@@ -9,24 +9,28 @@
 
 ## About Me
 
-I am a PhD geophysicist specializing in geothermal energy, subsurface modelling, and AI-driven scientific computing. My work focuses on developing end-to-end machine learning systems and physics-based modelling solutions for complex scientific and industrial challenges.
+I am a Machine Learning Engineer and Data Scientist specializing in developing, optimizing, and deploying end-to-end machine learning and deep learning systems for real-world scientific and industrial applications.
 
-My expertise spans:
+My expertise combines advanced machine learning, predictive modelling, scientific computing, and physics-based approaches, with a strong focus on model performance, computational efficiency, uncertainty quantification, and production-ready ML pipelines.
 
-* Geothermal Energy & Subsurface Modelling
-* Geophysical Modelling & Inverse Problems
-* Scientific Machine Learning & Deep Learning
+Core Expertise:
+
+* Machine Learning & Deep Learning
+* End-to-End ML Pipelines & MLOps
+* Predictive Modelling & Large-Scale Data Analysis
+* Feature Engineering & Model Optimization
+* Bayesian Machine Learning & Uncertainty Quantification
 * Physics-Informed Neural Networks (PINNs)
-* Reservoir Simulation & Resource Assessment
-* Bayesian ML & Uncertainty Quantification
-* Geospatial AI, Satellite Data & Inversion
-* Image Processing & Anomaly Detection
-* Time-Series Analysis & Signal Processing
-* MLOps & Model Deployment
-* LLMs, RAG & Document Intelligence
-* Causal AI & Predictive Modelling
+* Simulation-Based Inference (SBI)
+* Computer Vision & Image Processing
+* Time-Series Analysis & Failure Prediction
+* Causal AI & Statistical Learning
+* Model Benchmarking & Automated Diagnostics
+* Python, PyTorch, scikit-learn, MLflow & Docker
 
-I am particularly interested in bridging geophysical science, geothermal engineering, and artificial intelligence to develop practical solutions for energy exploration, resource assessment, and subsurface characterization.
+I have developed ML solutions for global predictive models, satellite data analysis, infrastructure inspection, and vibration-based failure prediction, including models trained on limited and noisy datasets.
+
+I am particularly interested in applying machine learning and artificial intelligence to challenging real-world problems, bridging scientific research, engineering, and industrial applications.
 
 
 ## Education
