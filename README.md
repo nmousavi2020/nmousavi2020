@@ -12,26 +12,27 @@ I specialize in designing and implementing end-to-end machine learning and deep 
 
 **What I Can Do**
 
-**Predictive Maintenance:** Develop machine learning and deep learning models to predict equipment degradation, estimate failure risk, and support condition monitoring.
+𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Design, implement, optimize, and refine ML/DL algorithms for scientific and industrial applications.
 
-**Industrial AI & Optimization:** Build predictive models to optimize industrial processes, improve operational efficiency, and reduce computational and operational costs.
+𝗣𝗵𝘆𝘀𝗶𝗰𝘀-𝗜𝗻𝗳𝗼𝗿𝗺𝗲𝗱 𝗔𝗜: Develop physics-guided ML models, PINNs, and hybrid numerical-data-driven approaches.
 
-**Uncertainty Quantification:** Develop probabilistic models and prediction intervals to quantify uncertainty and support risk-informed decisions.
+𝗨𝗻𝗰𝗲𝗿𝘁𝗮𝗶𝗻𝘁𝘆 𝗤𝘂𝗮𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻: Apply Bayesian ML, probabilistic modeling, and prediction intervals for reliable forecasting and risk assessment.
 
-**LLMs & Intelligent Document Processing:** Develop private, locally hosted RAG systems for technical document analysis, information extraction, and citation-grounded question answering.
+𝟯𝗗 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴 & 𝗡𝘂𝗺𝗲𝗿𝗶𝗰𝗮𝗹 𝗠𝗼𝗱𝗲𝗹𝗹𝗶𝗻𝗴: Build deep learning and numerical inversion frameworks for 3D subsurface imaging, resource exploration, and parameter estimation.
 
-**Computer Vision & Signal Processing:** Build automated detection, classification, and signal-analysis systems for industrial inspection and sensor-based applications.
+𝗛𝗣𝗖 & 𝗣𝗮𝗿𝗮𝗹𝗹𝗲𝗹 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴: Optimize parallel ML training workflows using HPC, GPUs, and CUDA for computationally efficient AI.
 
-**MLOps & AI Deployment:** Design reproducible ML pipelines with experiment tracking, automated testing, API development, Docker, and Kubernetes.
+𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝘃𝗲 𝗠𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝗰𝗲 & 𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗮𝗹 𝗔𝗜: Build models for equipment degradation, failure prediction, condition monitoring, process optimization, and operational efficiency.
 
-**Data Engineering:** Process and analyze large-scale geospatial, satellite, and time-series datasets.
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 & 𝗦𝗶𝗴𝗻𝗮𝗹 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴: Develop automated detection, classification, industrial inspection, and sensor-analysis systems.
 
-**Scientific & Physics-Informed AI:** Develop physics-guided machine learning models for problems where conventional data-driven approaches are insufficient.
+𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 & 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Process large-scale scientific, geospatial, satellite, and time-series datasets.
 
-**3D Modeling & Inverse Problems:** Develop deep learning and numerical inversion frameworks for subsurface imaging, resource exploration, and complex parameter estimation.
+𝗘𝗻𝗲𝗿𝗴𝘆 𝗔𝗜 & 𝗚𝗲𝗼𝘀𝗽𝗮𝘁𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲: Develop predictive solutions for geothermal assessment, energy exploration, and geospatial analysis.
 
-**Energy AI:** Build predictive models for geothermal resource assessment, and energy-related geospatial analysis.
+𝗠𝗟𝗢𝗽𝘀 & 𝗔𝗜 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁: Build reproducible ML pipelines using MLflow, automated testing, APIs, Docker, and Kubernetes.
 
+𝗘𝗺𝗲𝗿𝗴𝗶𝗻𝗴 𝗔𝗜 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Explore LLMs, RAG, and intelligent AI applications.
 
 ---
 
